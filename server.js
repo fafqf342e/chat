@@ -3,7 +3,6 @@ const fs = require('fs');
 const path = require('path');
 const db = require('./database');
 const cookie = require('cookie');
-const bob;
 
 const validAuthTokens = [];
 
